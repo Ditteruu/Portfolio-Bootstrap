@@ -11042,10 +11042,11 @@ html {
 }
 .tag {
   display: inline-block;
+  background-color: red; /* Fondo rojo */
   border: 2px solid red; /* Borde rojo */
-  color: red; /* Texto rojo */
-  padding: 5px 12px; /* Espaciado interno */
+  color: white; /* Texto rojo */
+  padding: 10px 30px; /* Espaciado interno */
   border-radius: 8px; /* Bordes redondeados */
   font-weight: bold;
-  font-size: 14px;
+  font-size: 20px;
 }
